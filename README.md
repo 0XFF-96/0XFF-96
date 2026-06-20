@@ -29,7 +29,9 @@
 
 I'm **Jimmy (Jinrui) Li** — a full-stack engineer based in Perth, working at the intersection of **AI applications**, **backend systems**, and **product delivery**.
 
-Six years of backend engineering (Go / gRPC / Kubernetes at ByteDance and Zao'an, scaled to 500k DAU) gave me the discipline of distributed systems. The last two years — through my **Master of IT at UWA** and solo full-stack projects — I've moved that discipline into **shipping LLM-powered products end-to-end**: from OpenAI / Claude integration to streaming UIs to evals.
+four years of backend engineering (Go / gRPC / Kubernetes at **ByteDance** and **ZaoAn**, scaled to 500k DAU) gave me the discipline of distributed systems. The last two years — through my **Master of IT at UWA** and solo full-stack projects 
+
+I've moved that discipline into **shipping LLM-powered products end-to-end**: from OpenAI / Claude integration to streaming UIs to evals.
 
 - ⚔️ **Edge**: backend rigour (microservices, observability, FinOps) + modern AI-app craft (GPT-4o, RAG, streaming, agentic workflows).
 - 🎯 **Now**: building AI assessment & reporting platforms, an AI-driven mindfulness app, and a community cultural archive — all solo or small-team, all in production.
