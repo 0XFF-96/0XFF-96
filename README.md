@@ -40,13 +40,6 @@ Most of these started as a bug I hit in production — reported with a repro, th
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,grafana,prometheus&perline=8&theme=dark" alt="Cloud and observability" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0XFF-96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=14B8A6&text_color=E6EDF3&ring_color=F59E0B" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0XFF-96&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=E6EDF3" alt="Top languages" />
-</div>
-
 ## 📫 Connect
 
 <div align="center">
