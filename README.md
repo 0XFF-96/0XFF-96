@@ -19,7 +19,7 @@
 | [`fastify/otel`](https://github.com/fastify/otel) | Redesigned the request OTel context API — breaking change 💥 ([#171](https://github.com/fastify/otel/pull/171)) · fixed `setNotFoundHandler` crash on array hooks ([#175](https://github.com/fastify/otel/pull/175)) |
 | [`fastify/session`](https://github.com/fastify/session) | Fixed secure-cookie override ([#342](https://github.com/fastify/session/pull/342)) · store corruption on `reload()` ([#340](https://github.com/fastify/session/pull/340)) · cookie clearing with configured path ([#344](https://github.com/fastify/session/pull/344)) · proposing session lifecycle observability hooks ([#351](https://github.com/fastify/session/pull/351)) |
 | [`fastify/fastify-cookie`](https://github.com/fastify/fastify-cookie) | Fixed `hook: false` silently disabling cookie writing ([#360](https://github.com/fastify/fastify-cookie/pull/360)) |
-| [`talent-plan/tinykv`](https://github.com/talent-plan/tinykv) | Contributed while building a distributed key-value store in Go ([#180](https://github.com/talent-plan/tinykv/pull/180)) |
+| [`talent-plan/tinykv`](https://github.com/talent-plan/tinykv) | Contributed while building a distributed key-value store in Go|
 
 Most of these started as a bug I hit in production — reported with a repro, then fixed with tests.
 
